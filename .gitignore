@@ -1,0 +1,15 @@
+# Ignore large files & folders - NEVER upload again
+.pth
+.pt
+.h5
+.zip
+.jpg
+.png
+.jpeg
+.webp
+dataset
+dataset_split
+test_data
+__pycache__
+.env
+.log
